@@ -1,0 +1,26 @@
+6 5.25 17.5
+6 5.44 drink white wine
+5 24.96 entree lobster thermidor
+4 8.00 appetizer vegetable spring rolls
+3 drink 2.15 Dr. Pepper
+4 .99 drink vending machine coffee
+6 raisins dessert
+3.99 4 entree Big Mac
+2 10.05 entree chef's salad
+1 9.95 dessert Death by Chocolate
+1 4.00 drink chocolate liqueur
+3 2.00
+2 3.50 drink hard apple cider
+5 1.09 drink Coke
+6 12.95 dessert Peach Melba
+6 23 entree New York strip steak
+6 4 dessert raisin bagel
+4 17.95 entree ravioli
+3 5.95 entree breakfast taco
+3 10.00 appetizer maza plate
+4 3.50 dessert Bomb Pop
+3 6.25 drink Merlot
+4 fig newton .40 dessert
+5 2.25 dessert Jello with fruit
+1 15 entree ham and cheese on rye
+Popsicle 2 .50 dessert
